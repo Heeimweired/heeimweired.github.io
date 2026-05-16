@@ -1,4 +1,4 @@
-#Heeimweired's Site o' Stuff
+# Heeimweired's Site o' Stuff
 
 It's my personal everything website, with a starting focus on allowing access to my free public \
 *"pictures that were accesptable enough to want to share"*.
